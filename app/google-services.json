@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "28089966968",
+    "project_id": "makine-6d5a6",
+    "storage_bucket": "makine-6d5a6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:28089966968:android:f348a53c8690b69cbe688d",
+        "android_client_info": {
+          "package_name": "com.sametsisman.makine"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "28089966968-d54hnumjpiov177o18fkst54vtv48nis.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB406ppPYQYUqY1_Qd6DktQJX1QSTKAMrY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "28089966968-d54hnumjpiov177o18fkst54vtv48nis.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

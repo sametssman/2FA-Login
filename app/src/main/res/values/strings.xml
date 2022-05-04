@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Makine</string>
+    <string name="didnt_get_otp_resend">Didn\'t get OTP? <b>Resend</b></string>
+</resources>
